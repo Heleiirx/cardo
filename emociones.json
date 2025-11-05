@@ -1,0 +1,82 @@
+[
+    {
+        "descripcion": "Alegría desbordante.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Tristeza profunda.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Miedo paralizante.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Amor eterno.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Envidia corrosiva.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Sorpresa inesperada.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Ira incontrolable.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Gratitud sincera.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Nostalgia de la infancia.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Esperanza renovada.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Confusión abrumadora.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Culpa agobiante.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Orgullo por un logro.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Vergüenza por un error.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Empatía hacia otro.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Desesperación total.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Felicidad contagiosa.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Admiración por un héroe.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Aversión a algo.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Calma interior.",
+        "puntaje": 1
+    }
+]
